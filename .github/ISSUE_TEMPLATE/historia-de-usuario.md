@@ -7,15 +7,6 @@ assignees: ''
 
 ---
 
----
-name: Historia de usuario
-about: Esta template es para crear historias de usuario
-title: ''
-labels: ''
-assignees: ''
-
----
-
 **Como** [rol]  
  **Necesito** [función]  
  **Para que** [beneficio]  
